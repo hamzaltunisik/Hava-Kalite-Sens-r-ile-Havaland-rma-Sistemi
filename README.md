@@ -1,1 +1,1 @@
-# Hava-Kalite-Sens-r-ile-Havaland-rma-Sistemi
+# Hava-Kalite-Sensor-ile-Havalandirma-Sistemi
